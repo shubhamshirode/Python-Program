@@ -1,0 +1,14 @@
+sequence() - It allows you to easily stack sequential layers of the network in order from input to output
+conv2D() - common type of convolution that is used is the 2D convolution layer
+Activation() - The activation function is a node that is put at the end of or in between Neural Networks
+relu - The rectified linear activation function or ReLU for short is a piecewise linear function that will output the input directly if it is positive, otherwise, it will output zero
+
+maxpooling2d()- Max pooling is a pooling operation that selects the maximum element from the region of the feature map covered by the filter.
+
+dropout()- Dropout is a technique where randomly selected neurons are ignored during training
+
+flatten()- Flatten is the function that converts the pooled feature map to a single column
+
+dense()- Dense layer is the regular deeply connected neural network layer
+Binary Cross-Entropy- Cross-entropy is the default loss function to use for binary classification problems
+Adam- is an adaptive learning rate optimization algorithm
